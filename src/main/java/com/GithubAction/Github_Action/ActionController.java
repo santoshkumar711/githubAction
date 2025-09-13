@@ -8,6 +8,6 @@ public class ActionController {
 @RequestMapping("/test")
 public String test()
 {
-	return " Hello Github Action";
+	return " Hello Github Action java";
 }
 }
